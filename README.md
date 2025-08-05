@@ -2,5 +2,5 @@
 
 - 🩰 Pronouns: she/her
 - 🎓 MS in Computer Science. [2022] 
-- 🌱 I’m currently learning JavaScript, & Python.
+- 🌱 Exploring JavaScript, & Python.
 
