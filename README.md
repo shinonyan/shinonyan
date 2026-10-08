@@ -1,6 +1,6 @@
 ## GET TO KNOW ME 👒
 
-- 🩰 Pronouns: she/her
 - 🎓 MS in Computer Science. [2022] 
-- 🌱 Learning JavaScript, & Python.
+- 🌱 Aspiring to learn more about Quantum Computing.
+- Meanwhile learning more on python & design fundamentals.
 
